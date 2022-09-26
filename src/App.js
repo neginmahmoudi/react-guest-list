@@ -1,4 +1,3 @@
-import userEvent from '@testing-library/user-event';
 import { useEffect, useState } from 'react';
 
 function App() {
